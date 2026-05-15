@@ -1,10 +1,7 @@
-# Applied Machine Learning — Assignment 2
+
 ## Clustering from Scratch: Prototype Adjustment vs DBSCAN
 
-**Student:** Rishikesh Mahendra Dharane  
-**Student ID:** R00277319  
-**Module:** COMP Applied Machine Learning  
-**Institution:** Munster Technological University  
+
 
 ---
 
